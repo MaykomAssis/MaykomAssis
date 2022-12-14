@@ -1,5 +1,5 @@
 
-### Hi 👋 My name is Maykom Assis2
+### Hi 👋 My name is Maykom Assis
 
 Hello, I'm a Web Developer, I know a little bit about HTML, CSS and Javascript. I like to take apart, fix or just find out what things are made of and how they work :)
 
