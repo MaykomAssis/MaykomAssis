@@ -1,11 +1,11 @@
 
 ### Hi 👋 My name is Maykom Assis
 
-Hello, I'm a Web Developer, I know a little bit about HTML, CSS and Javascript. I like to take apart, fix or just find out what things are made of and how they work :)
+Hello, I'm a Web Developer, I know about HTML, CSS, Javascript and now I'm learning bootstrap. like to take apart things, fix or just find out what things are made of and how they work :)
 
 .🌍  I'm based in Campos dos goytacazes - RJ <br>
 .✉️  You can contact me at mayassiskon@gmail.com <br>
-.🧠  I'm learning Javascript <br> 
+.🧠  I'm learning Javascript and bootstrap <br> 
 
 
 <hr>
